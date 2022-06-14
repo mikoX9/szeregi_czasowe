@@ -1,1 +1,3 @@
-xx
+Time series forecast module.
+
+Main functionality with documentation is in shared_modules/time_series.py.
